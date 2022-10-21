@@ -1,0 +1,13 @@
+data_file = dv_fid.txt
+cov_file = cov_lsst_y1_lenseqsrc_Ntheta20_Ntomo10
+mask_file = ones.mask
+nz_lens_file = source_LSSTY1.nz 
+nz_source_file = source_LSSTY1.nz
+lensing_overlap_cut = 0.00
+lens_ntomo = 10
+source_ntomo = 10
+n_theta = 20
+IA_model = 6
+theta_min_arcmin = 1.0
+theta_max_arcmin = 400.
+baryon_pca_file = pca.txt
